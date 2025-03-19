@@ -6,7 +6,7 @@ In addition to high-performance classification, we introduced model explainabili
 
 
 ### **Problem Statement**  
-The financial industry faces significant risks in loan approvals, including:  
+With only 45% of loan applications approvaed, the organization faces significant risks and ineffieciencies in loan approvals, including:  
 - **Credit default risks**, which increase non-performing loans (NPLs).  
 - **Regulatory compliance challenges**, requiring fair and explainable loan decisions.  
 - **Inefficient manual loan screening processes**, leading to delays in approvals.  
